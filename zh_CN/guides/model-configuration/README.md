@@ -15,10 +15,10 @@ Dify 目前已支持主流的模型供应商，例如 OpenAI 的 GPT 系列、An
     > 已支持的系统推理模型供应商：[OpenAI](https://platform.openai.com/account/api-keys)、[Azure OpenAI Service](https://azure.microsoft.com/en-us/products/ai-services/openai-service/)、[Anthropic](https://console.anthropic.com/account/keys)、Hugging Face Hub、Replicate、Xinference、OpenLLM、[讯飞星火](https://www.xfyun.cn/solutions/xinghuoAPI)、[文心一言](https://console.bce.baidu.com/qianfan/ais/console/applicationConsole/application)、[通义千问](https://dashscope.console.aliyun.com/api-key\_management?spm=a2c4g.11186623.0.0.3bbc424dxZms9k)、[Minimax](https://api.minimax.chat/user-center/basic-information/interface-key)、ZHIPU(ChatGLM)
 2.  **Embedding 模型**。在数据集中，将分段过的文档做 Embedding 用的是该类型的模型。在使用了数据集的应用中，将用户的提问做 Embedding 处理也是用的该类型的模型。
 
-    > 已支持的 Embedding 模型供应商：OpenAI、ZHIPU(ChatGLM)、JinaAI
+    > 已支持的 Embedding 模型供应商：OpenAI、ZHIPU(ChatGLM)、Jina AI
 3.  [**Rerank 模型**](https://docs.dify.ai/v/zh-hans/advanced/retrieval-augment/rerank)。**Rerank 模型用于增强检索能力，改善 LLM 的搜索结果。**
 
-    > 已支持的 Rerank 模型供应商：Cohere、JinaAI
+    > 已支持的 Rerank 模型供应商：Cohere、Jina AI
 4.  **语音转文字模型**。将对话型应用中，将语音转文字用的是该类型的模型。
 
     > 已支持的语音转文字模型供应商：OpenAI
