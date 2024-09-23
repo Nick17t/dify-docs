@@ -288,7 +288,7 @@ Difyは以下のモデルプロバイダーをサポートしています：
             <td align="center"></td>
         </tr>        
         <tr>
-            <td align="center">Jina</td>
+            <td align="center">Jina AI</td>
             <td align="center"></td>
             <td align="center">✔️</td>
             <td align="center">✔️</td>

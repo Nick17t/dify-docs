@@ -15,10 +15,10 @@ Difyでは、モデルの使用シーンに応じて以下の4つのタイプに
     > サポートされているシステム推論モデルプロバイダー：[OpenAI](https://platform.openai.com/account/api-keys)、[Azure OpenAIサービス](https://azure.microsoft.com/en-us/products/ai-services/openai-service/)、[Anthropic](https://console.anthropic.com/account/keys)、Hugging Faceハブ、Replicate、Xinference、OpenLLM、[讯飞星火](https://www.xfyun.cn/solutions/xinghuoAPI)、[文心一言](https://console.bce.baidu.com/qianfan/ais/console/applicationConsole/application)、[通义千问](https://dashscope.console.aliyun.com/api-key\_management?spm=a2c4g.11186623.0.0.3bbc424dxZms9k)、[Minimax](https://api.minimax.chat/user-center/basic-information/interface-key)、ZHIPU(ChatGLM)
 2.  **埋め込みモデル**。データセット内の分割された文書の埋め込みに使用されるのはこのタイプのモデルです。データセットを使用するアプリケーションでは、ユーザーの質問を埋め込み処理する際にもこのタイプのモデルが使用されます。
 
-    > サポートされている埋め込みモデルプロバイダー：OpenAI、ZHIPU(ChatGLM)、JinaAI
+    > サポートされている埋め込みモデルプロバイダー：OpenAI、ZHIPU(ChatGLM)、Jina AI
 3.  [**Rerankモデル**](https://docs.dify.ai/v/ja-jp/learn-more/extended-reading/retrieval-augment/rerank)。**Rerankモデルは検索能力を強化し、LLMの検索結果を改善するために使用されます。**
 
-    > サポートされているRerankモデルプロバイダー：Cohere、JinaAI
+    > サポートされているRerankモデルプロバイダー：Cohere、Jina AI
 4.  **音声からテキストへのモデル**。対話型アプリケーションで音声をテキストに変換する際に使用されるのはこのタイプのモデルです。
 
     > サポートされている音声からテキストへのモデルプロバイダー：OpenAI

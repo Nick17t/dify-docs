@@ -288,7 +288,7 @@ Dify supports the below model providers out-of-box:
             <td align="center"></td>
         </tr>        
         <tr>
-            <td align="center">Jina</td>
+            <td align="center"> AI</td>
             <td align="center"></td>
             <td align="center">✔️</td>
             <td align="center">✔️</td>

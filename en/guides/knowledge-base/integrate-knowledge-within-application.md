@@ -88,7 +88,7 @@ While this method incurs some additional costs, it is more adept at handling com
 
 > Click here to learn more about the [Re-ranking](https://docs.dify.ai/learn-more/extended-reading/retrieval-augment/rerank).
 
-Dify currently supports multiple Rerank models. To use external Rerank models, you'll need to provide an API Key. Enter the API Key for the Rerank model (such as Cohere, Jina, etc.) on the "Model Provider" page.
+Dify currently supports multiple Rerank models. To use external Rerank models, you'll need to provide an API Key. Enter the API Key for the Rerank model (such as Cohere, Jina AI, etc.) on the "Model Provider" page.
 
 <figure><img src="../../../img/en-rerank-model-api.png" alt=""><figcaption><p>Configuring the Rerank model in the Model Provider</p></figcaption></figure>
 

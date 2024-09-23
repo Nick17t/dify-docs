@@ -87,7 +87,7 @@ Rerankモデルは外部のスコアリングシステムで、ユーザーの�
 
 > より詳細な情報は[リコール拡張](https://docs.dify.ai/v/ja-jp/learn-more/extended-reading/retrieval-augment/rerank)メカニズムをご覧ください。
 
-Difyは現在、複数のRerankモデルをサポートしており、"モデルサプライヤー"ページでRerankモデル（例：Cohere、Jinaなど）のAPIキーを入力することができます。
+Difyは現在、複数のRerankモデルをサポートしており、"モデルサプライヤー"ページでRerankモデル（例：Cohere、Jina AIなど）のAPIキーを入力することができます。
 
 <figure><img src="../../../img/jp-rerank-model-api.png" alt=""><figcaption><p>モデルサプライヤー内でRerankモデルを設定</p></figcaption></figure>
 

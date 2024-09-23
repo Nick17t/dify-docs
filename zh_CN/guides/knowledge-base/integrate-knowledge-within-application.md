@@ -89,7 +89,7 @@ Rerank 模型是一种外部评分系统，它会计算用户问题与给定的�
 
 > 点击了解更多[重排序](https://docs.dify.ai/v/zh-hans/learn-more/extended-reading/retrieval-augment/rerank)机制。
 
-Dify 目前支持多个 Rerank 模型，进入 “模型供应商” 页填入 Rerank 模型（例如 Cohere、Jina 等模型）的 API Key。
+Dify 目前支持多个 Rerank 模型，进入 “模型供应商” 页填入 Rerank 模型（例如 Cohere、Jina AI 等模型）的 API Key。
 
 <figure><img src="../../../img/zh-rerank-model-api.png" alt=""><figcaption><p>在模型供应商内配置 Rerank 模型</p></figcaption></figure>
 
